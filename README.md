@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-I am a Library and Information Science Master's student with a B.A. in Computer Science. My focus is on data management and information systems. 
-I'm currently working with the iSchool Metadata Lab on research.
+I am a Library and Information Science Master's student at Syracuse University, with a focus on data management and information systems. I also have a B.A. in Computer Science from Ithaca College.
+I'm currently working with the iSchool Metadata Lab on research; see our organization GitHub page for more information.
 
 <!--
 **klpolley/klpolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
