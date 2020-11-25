@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+I am a Library and Information Science Master's student with a B.A. in Computer Science. My focus is on data management and information systems. 
+I'm currently working with the iSchool Metadata Lab on research.
 
 <!--
 **klpolley/klpolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
