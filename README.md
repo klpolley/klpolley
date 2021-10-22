@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am a Library and Information Science Master's student at Syracuse University, with a focus on information systems, data management, and storytelling. I also have a B.A. in Computer Science from Ithaca College.
+I am a Library and Information Science Master's student at Syracuse University, with a focus on library technology. I also have a B.A. in Computer Science from Ithaca College.
 I'm currently working with the iSchool Metadata Lab on research; see our organization GitHub page for more information.
 
 <!--
