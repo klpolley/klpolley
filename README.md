@@ -1,7 +1,8 @@
 ### Hello there! 👋
 
-I am a Library and Information Science Master's student at Syracuse University, with a focus on library technology. I also have a B.A. in Computer Science from Ithaca College.
-I'm currently working with the iSchool Metadata Lab on research; see our organization GitHub page for more information.
+Web Services Librarian at University of Massachusetts Dartmouth
+Master of Science in Library and Information Science, Syracuse University, 2022
+Bachelor of Arts in Computer Science, Ithaca College, 2020
 
 <!--
 **klpolley/klpolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
